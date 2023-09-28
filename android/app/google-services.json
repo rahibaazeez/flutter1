@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683332525437",
+    "project_id": "contactform-58585",
+    "storage_bucket": "contactform-58585.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683332525437:android:bdf4e3b1d65982d9f14014",
+        "android_client_info": {
+          "package_name": "com.example.contactform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683332525437-73kup95fvskqctoosg1bo5ju88siisbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0-epiGVNmx0XKeBkWJHg7H75I__Uefv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683332525437-73kup95fvskqctoosg1bo5ju88siisbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
